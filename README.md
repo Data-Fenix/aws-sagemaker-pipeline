@@ -94,14 +94,22 @@ https://aws.amazon.com/free/
 └──WA_Fn-UseC_-Telco-Customer-Churn.csv
 ```
 ## Technologies Used
-## Feature Requests
 [<img target="_blank" src="https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?fit=1292%2C664&strip=all" width=200>](https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?fit=1292%2C664&strip=all) [<img target="_blank" src="https://www.cloudsavvyit.com/p/uploads/2019/06/55634f08.png?width=1198&trim=1,1&bg-color=000&pad=1,1" width = 200>](https://www.cloudsavvyit.com/p/uploads/2019/06/55634f08.png?width=1198&trim=1,1&bg-color=000&pad=1,1) [<img target="_blank" src="https://jfrog.com/connect/images/6053d4dc2f6c53160a53d407_linux-container-updates-iot.png" width = 200>](https://jfrog.com/connect/images/6053d4dc2f6c53160a53d407_linux-container-updates-iot.png) [<img target="_blank" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2015-2017.png" width = 200>](https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2015-2017.png) [<img target="_blank" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width = 200>](https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png) [<img target="_blank" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" width = 200>](https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png)
+
+## Bug / Feature Requests
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Data-Fenix/aws-sagemaker-pipeline/issues/new) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/Data-Fenix/aws-sagemaker-pipeline/issues/new). Please include sample queries and their corresponding results.
+
 ## Contributing
 
-Contributions are always welcome!
+ML Enginner : Lahiru Dissanayake
+Data Scientist : Shashi Withanage
 
-See `contributing.md` for ways to get started.
+## License
 
-Please adhere to this project's `code of conduct`.
+Copyright 2022 Lahiru Dissanayake and Shashi Withange
+
+## Credits
 
 
