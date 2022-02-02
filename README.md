@@ -64,6 +64,9 @@ Only thing you need to satisfy in this list is you must have an AWS account. If 
 https://aws.amazon.com/free/
     
 ## Run
+1) Clone this repository into your AWS Sagemaker instance/upload all the files into instance
+2) Run the build_docker.ipynb
+3) Run the full_pipeline.ipynb
 
 ## Deployment on AWS Sagemaker
 
