@@ -61,7 +61,7 @@ This project has major two parts:
 
 
 Only thing you need to satisfy in this list is you must have an AWS account. If you don't have an account you can create it free, using below link:
-https://aws.amazon.com/free/?trk=ps_a134p000003yhp9AAA&trkCampaign=acq_paid_search_brand&sc_channel=ps&sc_campaign=acquisition_LK&sc_publisher=google&sc_category=core&sc_country=LK&sc_geo=APAC&sc_outcome=Acquisition&sc_detail=aws%20free%20tier&sc_content=Account_e&sc_matchtype=e&sc_segment=457731398305&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|AWS|Core|LK|EN|Text&s_kwcid=AL!4422!3!457731398305!e!!g!!aws%20free%20tier&ef_id=Cj0KCQiA9OiPBhCOARIsAI0y71AoO_4fsNdoto75N6p9IhvLp71-OiJAMXJ1IF3Yv7k6tUCMv3S_pWQaAvETEALw_wcB:G:s&s_kwcid=AL!4422!3!457731398305!e!!g!!aws%20free%20tier&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
+https://aws.amazon.com/free/
     
 ## Run
 ## Deployment on AWS Sagemaker
