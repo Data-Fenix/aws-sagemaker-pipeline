@@ -95,6 +95,7 @@ https://aws.amazon.com/free/
 ```
 ## Technologies Used
 ## Feature Requests
+[<img target="_blank" src="https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?fit=1292%2C664&strip=all" width=200>](https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?fit=1292%2C664&strip=all)
 ## Contributing
 
 Contributions are always welcome!
