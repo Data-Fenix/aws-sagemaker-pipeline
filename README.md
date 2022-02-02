@@ -96,6 +96,8 @@ https://aws.amazon.com/free/
 ## Technologies Used
 ## Feature Requests
 [<img target="_blank" src="https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?fit=1292%2C664&strip=all" width=200>](https://venturebeat.com/wp-content/uploads/2021/02/SageMaker.jpg?fit=1292%2C664&strip=all)
+
+[<img target="_blank" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cloudsavvyit.com%2F3673%2Fhow-to-host-a-website-from-s3%2F&psig=AOvVaw0fByTvNaZRnmvsU0l_sLK5&ust=1643910710819000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLi_kObK4fUCFQAAAAAdAAAAABAD" width = 200>] (s3)
 ## Contributing
 
 Contributions are always welcome!
