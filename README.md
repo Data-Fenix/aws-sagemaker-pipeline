@@ -2,7 +2,6 @@
 # Orchestrating Cutomer Churn Prediction ML Workflow with AWS SageMaker Pipelines
 
 
-## Table of content
 
 ## Table of Content
   * [Demo](#demo)
