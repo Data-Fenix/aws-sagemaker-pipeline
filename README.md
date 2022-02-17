@@ -103,7 +103,7 @@ Need to add,
 1) evalution step as a seperate component
 2) post-processing step
 
-But don't worry, we will discss above topics and many more in the future.
+Don't worry, we will discss above topics and many more in the future.
 
 ## Bug / Feature Requests
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Data-Fenix/aws-sagemaker-pipeline/issues/new) by including your search query and the expected result.
