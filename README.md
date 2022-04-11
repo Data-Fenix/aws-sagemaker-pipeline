@@ -10,7 +10,7 @@
   * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
   * [Run](#run)
-  * [Deployement on Heroku](#deployement-on-heroku)
+  * [Deployement on Sagemaker](#deployement-on-sagemaker)
   * [Directory Tree](#directory-tree)
   * [To Do](#to-do)
   * [Bug / Feature Request](#bug---feature-request)
