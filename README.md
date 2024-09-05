@@ -116,11 +116,10 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## Contributing
 
 <p><b> ML Enginner </b> : Lahiru Dissanayake </p>
-<p><b> Data Scientist </b>: Shashi Withanage </p>
 
 ## License
 
-Copyright 2022 Lahiru Dissanayake and Shashi Withange
+Copyright 2022 Lahiru Dissanayake
 
 ## Credits
 
